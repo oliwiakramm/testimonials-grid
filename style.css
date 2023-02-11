@@ -234,7 +234,7 @@ body {
 
 .jonathan {
   background-color: var(--grayishBlue-clr);
-  animation-delay: 0.4s;
+  animation-delay: 0.3s;
 }
 
 /* JEANETTE and KIRA */
@@ -246,7 +246,7 @@ body {
 }
 
 .jeanette {
-  animation-delay: 0.8s;
+  animation-delay: 0.6s;
 }
 
 /* PATRICK */
@@ -254,7 +254,7 @@ body {
 .patrick {
   background-color: var(--blackishBlue-clr);
   color: var(--LightGrayishBlue);
-  animation-delay: 1.2s;
+  animation-delay: 0.9s;
 }
 
 .patrick img {
@@ -264,7 +264,7 @@ body {
 /* KIRA */
 
 .kira {
-  animation-delay: 1.6s;
+  animation-delay: 1.2s;
 }
 
 /***** MEDIA QUERIES *****/
